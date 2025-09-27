@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Inua Nurse Footprint (INF)</title>
+  <title>About Us | Inua Nurse Footprint (INF)</title>
   <link rel="stylesheet" href="assets/css/style.css"/>
 </head>
 <body>
@@ -19,32 +19,37 @@
     </nav>
   </header>
   <section class="hero">
-    <h1>Welcome to Inua Nurse Footprint (INF)</h1>
+    <h1>About Us</h1>
     <p>
-      Empowering the next generation of nurses through mentorship, outreach, mental health, and alumni engagement.<br>
-      <span style="font-weight:600;">#TheNextGenerationOfNurses</span>
+      Inua Nurse Footprint (INF) is a student-led initiative founded by Israel Alex Makori, 2025/2026 Chairperson of NUNSA. Our mission is to empower nursing students through mentorship, mental health support, community outreach, welfare programs, and alumni engagement.
     </p>
-    <a href="get-involved.html" class="btn">Get Involved</a>
   </section>
-
   <main>
     <section>
-      <h2>Key Programs</h2>
+      <h2>Our Vision</h2>
+      <p>To build a better next generation of nurses.</p>
+      <h2>Our Mission</h2>
+      <p>Empowering nursing students through comprehensive support and programs.</p>
+      <h2>Objectives</h2>
       <ul>
-        <li>🎓 Mentorship & Academic Empowerment</li>
-        <li>🧠 Mental Health Desk</li>
-        <li>🤝 Alumni Engagement</li>
-        <li>🏥 Community Outreach & Health Camps</li>
-        <li>💙 Inua Nurse Fund (Student Welfare)</li>
+        <li>Mentorship and career guidance</li>
+        <li>Mental health and wellness support</li>
+        <li>Community outreach and advocacy</li>
+        <li>Welfare and financial assistance</li>
+        <li>Alumni engagement</li>
       </ul>
-      <p><a href="programs.html" class="btn">Explore Programs</a></p>
-    </section>
-    <section>
-      <h2>Latest News & Events</h2>
+      <h2>Leadership</h2>
       <ul>
-        <li>Charity Walk: October 20, 2025</li>
-        <li>Alumni Webinar: November 2, 2025</li>
-        <li><a href="events.html">View all events</a></li>
+        <li><a href="leadership/ceo-founder.html">Office of the CEO/Founder</a></li>
+        <li><a href="leadership/president.html">President</a></li>
+        <li><a href="leadership/deputy-president.html">Deputy President</a></li>
+        <li><a href="leadership/secretary-general.html">Secretary General</a></li>
+        <li><a href="leadership/outreach-director.html">Outreach Director</a></li>
+        <li><a href="leadership/mentorship-director.html">Mentorship Director</a></li>
+        <li><a href="leadership/mental-health-director.html">Mental Health Director</a></li>
+        <li><a href="leadership/alumni-director.html">Alumni Director</a></li>
+        <li><a href="leadership/finance-director.html">Finance Director</a></li>
+        <li><a href="leadership/it-director.html">IT Director</a></li>
       </ul>
     </section>
   </main>
