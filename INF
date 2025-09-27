@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Inua Nurse Footprint (INF)</title>
+  <meta name="description" content="INF empowers nursing students through mentorship, mental health, outreach, alumni engagement and welfare. #TheNextGenerationOfNurses" />
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">
+        <img src="assets/img/inf-logo.png" alt="INF Logo" id="logo">
+        <span>Inua Nurse Footprint (INF)</span>
+      </a>
+      <nav id="main-nav" class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="programs.html">Programs</a>
+        <a href="events.html">Events</a>
+        <a href="get-involved.html">Get Involved</a>
+        <a href="contact.html">Contact</a>
+        <button id="menu-toggle" class="menu-toggle" aria-label="Toggle menu">☰</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1>Empowering the next generation of nurses</h1>
+        <p>Mentorship • Mental health • Outreach • Alumni engagement • Welfare</p>
+        <a class="btn" href="get-involved.html">Get Involved</a>
+      </div>
+    </section>
+
+    <section class="features container">
+      <article>
+        <h3>Mentorship</h3>
+        <p>Connect with experienced nurses for clinical and academic guidance.</p>
+      </article>
+      <article>
+        <h3>Mental Health Desk</h3>
+        <p>Peer support, referrals, and awareness programs to protect student well-being.</p>
+      </article>
+      <article>
+        <h3>Community Outreach</h3>
+        <p>Health camps, charity walks and public health education programs.</p>
+      </article>
+    </section>
+
+    <section class="programs-highlight container">
+      <h2>Featured Programs</h2>
+      <ul>
+        <li>Inua Nurse Fund — Student hardship bursaries</li>
+        <li>Clinical mentorship & workshops</li>
+        <li>Suicide awareness & mental wellbeing webinars</li>
+      </ul>
+    </section>
+
+    <section class="cta container">
+      <h2>Follow us & Connect</h2>
+      <p>Stay updated: <strong>@InuaNurseFootprint</strong></p>
+      <p class="slogans">#TheNextGenerationOfNurses | #UpliftTheNurseToUpliftTheCommunity | #LeaveNoNurseBehind</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 Inua Nurse Footprint (INF) • Email: <a href="mailto:inf.go.ke@gmail.com">inf.go.ke@gmail.com</a> • WhatsApp: +254112569560</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About - Inua Nurse Footprint</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html"><img src="assets/img/inf-logo.png" alt="INF Logo" id="logo-small"><span>INF</span></a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="programs.html">Programs</a>
+        <a href="get-involved.html">Get Involved</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>About Inua Nurse Footprint (INF)</h1>
+    <p><strong>Inua Nurse Footprint (INF)</strong> is a student-led initiative founded by Israel Alex Makori (2025/2026 NUNSA Chairperson). We empower nursing students through mentorship, mental health support, community outreach, alumni engagement, and student welfare. Our mission is to build resilient, skilled, and compassionate nurses who uplift their communities.</p>
+
+    <h2>Our Vision</h2>
+    <p>A generation of nurses equipped to lead, care and transform community health.</p>
+
+    <h2>Core Values</h2>
+    <ul>
+      <li>Compassion</li>
+      <li>Accountability</li>
+      <li>Inclusion</li>
+      <li>Professional growth</li>
+    </ul>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 Inua Nurse Footprint (INF)</p>
+    </div>
+  </footer>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CEO / Founder - Inua Nurse Footprint</title>
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="../index.html"><img src="../assets/img/inf-logo.png" alt="INF Logo"><span>INF</span></a>
+      <nav class="nav">
+        <a href="../index.html">Home</a>
+        <a href="../about.html">About</a>
+        <a href="../programs.html">Programs</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container profile">
+    <h1>CEO & Founder — Israel Alex Makori</h1>
+    <p>Founder of Inua Nurse Footprint (INF), 2025/2026 Chairperson of NUNSA, and a passionate advocate for nursing student welfare, mentorship and mental health. Israel leads INF’s strategic vision and partnerships.</p>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:inf.go.ke@gmail.com">inf.go.ke@gmail.com</a></p>
+    <p>WhatsApp: +254112569560</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 Inua Nurse Footprint (INF)</p>
+    </div>
+  </footer>
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Volunteer Sign Up - INF</title>
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="../index.html"><img src="../assets/img/inf-logo.png" alt="INF Logo"><span>INF</span></a>
+      <nav class="nav">
+        <a href="../index.html">Home</a>
+        <a href="../get-involved.html">Get Involved</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>Volunteer Sign Up</h1>
+    <form id="volunteerForm" action="https://formspree.io/f/your_form_id" method="POST" class="form">
+      <label for="name">Full name</label>
+      <input id="name" name="name" type="text" required>
+
+      <label for="email">Email</label>
+      <input id="email" name="email" type="email" required>
+
+      <label for="phone">Phone / WhatsApp</label>
+      <input id="phone" name="phone" type="tel" required>
+
+      <label for="university">University</label>
+      <input id="university" name="university" type="text">
+
+      <label for="areas">Areas of interest</label>
+      <select id="areas" name="areas[]" multiple>
+        <option>Outreach & Camps</option>
+        <option>Mentorship</option>
+        <option>Mental Health Desk</option>
+        <option>Logistics</option>
+      </select>
+
+      <button type="submit" class="btn">Sign Up</button>
+      <p class="small">If you prefer, send details by WhatsApp to +254112569560</p>
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 INF</p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>
+:root{
+  --brand:#003366;
+  --accent:#00509e;
+  --muted:#f4f7fb;
+  --white:#fff;
+  --text:#0b2340;
+  --radius:8px;
+}
+
+*{box-sizing:border-box}
+body{
+  font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  margin:0; color:var(--text); background:var(--muted); line-height:1.6;
+}
+.container{max-width:1000px; margin:0 auto; padding:20px;}
+.site-header{background:var(--brand); color:var(--white);}
+.header-inner{display:flex; align-items:center; justify-content:space-between; padding:12px 20px;}
+.brand{display:flex; align-items:center; gap:10px; text-decoration:none; color:inherit;}
+.brand img{height:44px;}
+.nav a{color:var(--white); margin-left:14px; text-decoration:none}
+.menu-toggle{display:none; background:transparent; border:0; color:var(--white); font-size:18px}
+
+/* Hero */
+.hero{background:linear-gradient(90deg,var(--brand),var(--accent)); color:var(--white); padding:60px 20px; text-align:center;}
+.hero h1{margin:0 0 10px; font-size:28px}
+.btn{background:var(--white); color:var(--brand); padding:10px 18px; border-radius:6px; text-decoration:none; display:inline-block; margin-top:12px}
+
+/* Features */
+.features{display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:18px; margin-top:28px}
+.features article{background:var(--white); padding:16px; border-radius:8px; box-shadow:0 1px 4px rgba(0,0,0,.06)}
+
+/* CTA */
+.cta{background:var(--white); padding:20px; margin-top:20px; text-align:center; border-radius:8px}
+
+/* Footer */
+.site-footer{background:var(--brand); color:var(--white); padding:12px; text-align:center; margin-top:28px}
+
+/* Forms */
+.form{background:var(--white); padding:16px; border-radius:8px; box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.form label{display:block; margin:10px 0 6px}
+.form input, .form select, .form textarea{width:100%; padding:8px; border-radius:6px; border:1px solid #d7e2ef}
+
+/* Responsive */
+@media (max-width:800px){
+  .header-inner{flex-direction:row}
+  .nav{position:relative}
+  .nav a{display:none}
+  .menu-toggle{display:inline-block}
+  .nav.open a{display:block; margin:10px 0; background:transparent; color:var(--white)}
+}
+// basic interactivity: mobile nav toggle + simple form confirmation
+document.addEventListener('DOMContentLoaded', function(){
+  const menuToggle = document.getElementById('menu-toggle');
+  const nav = document.getElementById('main-nav');
+  if(menuToggle){
+    menuToggle.addEventListener('click', ()=> {
+      nav.classList.toggle('open');
+    });
+  }
+
+  // success confirmation for forms using client-side intercept if action is Formspree (optional)
+  const forms = document.querySelectorAll('form');
+  forms.forEach(form => {
+    form.addEventListener('submit', (e) => {
+      // let real submit happen; if you want AJAX, implement fetch here.
+      // small UX improvement: show a native confirm
+      const submitBtn = form.querySelector('button[type="submit"]');
+      if(submitBtn){
+        submitBtn.disabled = true;
+        submitBtn.innerText = 'Submitting...';
+      }
+    });
+  });
+});
+git add .
+git commit -m "Initial INF website"
+git push origin main
